@@ -46,3 +46,7 @@
   <a href='#'> <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' target='_blank'></a>
  
 </div>
+
+![snake gif](https://github.com/luigisampaio/luigisampaio/blob/output/github-contribution-grid-snake.svg)
+
+
